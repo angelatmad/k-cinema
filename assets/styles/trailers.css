@@ -1,0 +1,33 @@
+#trailers {
+    background: #F1F1F1;
+    padding: 72px 20px;
+  }
+  
+  .trailers-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+  }
+  
+  .trailers-heading {
+    text-align: center;
+  }
+  
+  .trailers-heading h2 {
+    font-size: 42px;
+    margin-bottom: 14px;
+    margin-top: 14px;
+    color: #800000;
+  }
+  
+  .card-container {
+    display: flex;
+    gap: 24px;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .card-container {
+      flex-direction: column;
+    }
+  }
