@@ -1,10 +1,10 @@
-/* 
+
 -- Responsive Breakpoints
 sm: 640px - mobile phone size
 md: 768px - Tablet size
 lg: 1024px - Laptop standard size
 xl: 1280px -- larger wide desktop size
-*/
+
 
 /* Reusable Styles */
 @import "button.css";
